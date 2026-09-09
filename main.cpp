@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
 int main(){
-    cout << "Hello, World!" << endl;
+    char name[] = "Mandelli";
+    cout << "Hello, World! " << name << endl;
     return 0;
 
 }
